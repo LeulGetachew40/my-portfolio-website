@@ -43,7 +43,7 @@ export default function Home() {
         <div className="max-w-4xl mx-auto">
           <div className="space-y-6 mb-12">
             <h1 className="text-5xl md:text-7xl font-bold text-balance leading-tight">
-              Full Stack Developer & Creative Technologist
+              Full Stack Developer Web Developer
             </h1>
             <p className="text-xl text-foreground/70 max-w-2xl leading-relaxed">
               My Name is Leul Getachew. I build beautiful, performant web
